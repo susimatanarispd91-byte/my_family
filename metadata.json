@@ -1,0 +1,6 @@
+{
+  "name": "MY FAMILY - Belajar Bahasa Inggris Kelas 1 SD",
+  "description": "Aplikasi media pembelajaran interaktif Bahasa Inggris bertema My Family untuk siswa kelas 1 SD dengan ilustrasi kartun, suara pengucapan, animasi, latihan soal, dan permainan edukatif.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
